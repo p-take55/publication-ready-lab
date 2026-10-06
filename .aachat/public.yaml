@@ -1,0 +1,6 @@
+name: "調査・会議整理アシスタント（公開準備検証用）"
+description: "公開準備の検証用サンプル。調査結果を出典付きの資料にまとめ、会議記録から決定事項・未解決の論点・次のアクションを整理します。"
+tags:
+  - "research"
+  - "meeting-summary"
+  - "publication-test"
